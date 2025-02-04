@@ -295,14 +295,8 @@ const init = async () => {
         console.log(IsLogin);
         console.log(AgentStatus);
 
-        if (AgentCode == null)
-          return h
-            .response({
-              error: true,
-              statusCode: 400,
-              errMessage: 'Please provide agentcode.',
-            })
-            .code(400);
+        if (payload.AgentCode == null)
+          return h.response('Please provide agentcode.').code(400);
         else {
           const responsedata =
             await OnlineAgent.OnlineAgentRepo.postOnlineAgentStatus(
