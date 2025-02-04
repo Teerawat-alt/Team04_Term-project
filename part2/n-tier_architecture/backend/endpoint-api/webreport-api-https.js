@@ -8,7 +8,7 @@ const OnlineAgent = require("./repository/OnlineAgent");
 
 //-------------------------------------
 
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+//process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 const apiport = 8443;
 
@@ -215,16 +215,9 @@ const init = async () => {
         if (payload.AgentCode == null)
           return res.response("Please provide agentcode.").code(400);
         else {
-/*
-          const responsedata =
-            await OnlineAgent.OnlineAgentRepo.postOnlineAgentStatus(
-              `${payload.AgentCode}`
-            );
-*/
-
 
         const responsedata =
-        await OnlineAgent.OnlineAgentRepo.postOnlineAgentStatus(payload.AgentCode, payload.AgentName. payload.IsLogin, payload.AgentStatus);
+        await OnlineAgent.OnlineAgentRepo.postOnlineAgentStatus(payload.AgentCode, payload.AgentName, payload.IsLogin, payload.AgentStatus);
 
           if (responsedata.statusCode == 500)
             return res
@@ -239,7 +232,7 @@ const init = async () => {
               .code(500);
         }
 
-        return payload;
+
 
       } catch (err) {
         console.dir(err);
