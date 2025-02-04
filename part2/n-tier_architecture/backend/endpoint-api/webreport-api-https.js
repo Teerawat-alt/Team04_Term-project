@@ -187,10 +187,8 @@ const init = async () => {
     },
   });
 
-  /*-------------------------------------------*/
-  /* API Name: getOnlineAgentByAgentCode       */
-  /* Method: 'GET'                             */
-  /*-------------------------------------------*/
+  //-------- Your Code continue here -------------------
+
   server.route({
     method: 'GET',
     path: '/api/v1/getOnlineAgentByAgentCode',
@@ -254,12 +252,7 @@ const init = async () => {
       }
     },
   });
-  
 
-/*-------------------------------------------*/
-  /* API Name: postOnlineAgentStatus       */
-  /* Method: 'POST'                             */
-  /*-------------------------------------------*/
   server.route({
     method: 'POST',
     path: '/api/v1/postOnlineAgentStatus',
