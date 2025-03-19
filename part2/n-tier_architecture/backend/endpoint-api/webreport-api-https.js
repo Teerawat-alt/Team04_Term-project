@@ -12,8 +12,8 @@ const OnlineAgent = require("./repository/OnlineAgent");
 
 //-------------------------------------
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
-const apiport = 4006;
-const wsPort = 4016;
+const apiport = 4004;
+const wsPort = 4014;
 // if (process.env.NODE_ENV !== "production") {
 //   process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 // }

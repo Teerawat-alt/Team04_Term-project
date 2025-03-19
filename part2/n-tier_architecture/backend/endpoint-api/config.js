@@ -53,8 +53,7 @@ module.exports = {
         }
       },
       parseConfig: {
-        apiURL: "https://localhost:5004",
-        //apiURL: "https://lab-parse-server.cpe-rmutl.net/team04/api",
+        apiURL: "https://lab-parse-server.cpe-rmutl.net/team04/api",
         appId: "wallboardapi",
         masterKey: "wallboardapi",
         javascriptKey: "wallboardapi",
