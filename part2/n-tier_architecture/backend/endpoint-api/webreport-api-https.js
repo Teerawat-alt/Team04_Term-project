@@ -453,7 +453,7 @@ const init = async () => {
               agent_code: AgentCode,
               agent_name: AgentName,
               agent_status: AgentStatus,
-              team: "6",
+              team: "4",
               is_login: "1",
             });
 

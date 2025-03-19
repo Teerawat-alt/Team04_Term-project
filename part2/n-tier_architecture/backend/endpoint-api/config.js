@@ -1,4 +1,3 @@
-const { apiURL } = require("../../frontend/agent_notification/config");
 
 module.exports = {
     development: {
