@@ -1,0 +1,65 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T07:59:47.199Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T07:59:47.200Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T07:59:47.200Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T07:59:47.239Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:08:19.199Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:08:19.199Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:08:19.200Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:08:19.233Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:13:00.876Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:13:00.877Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:13:00.877Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:13:00.913Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:30:05.886Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:30:05.887Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:30:05.887Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:30:05.923Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:20.157Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:20.158Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:39:20.158Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:39:20.192Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:23.004Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:23.005Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:39:23.005Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:39:23.037Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:28.050Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:28.051Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:39:28.052Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:39:28.084Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:52.888Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:39:52.889Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:39:52.889Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:39:52.927Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:41:14.907Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:41:14.907Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:41:14.908Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:41:14.940Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:49:35.518Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:49:35.519Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:49:35.520Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:49:35.552Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:49:37.604Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:49:37.605Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:49:37.605Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:49:37.636Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:49:51.904Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:49:51.905Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:49:51.906Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:49:51.939Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:52:14.752Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T08:52:14.752Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T08:52:14.753Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T08:52:14.786Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T14:12:00.414Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T14:12:00.415Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T14:12:00.416Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T14:12:00.456Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T14:14:55.365Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T14:14:55.365Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T14:14:55.366Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T14:14:55.401Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"9999\",\"AgentName\":\"Tee\",\"Team\":\"6\",\"AgentStatus\":\"1\",\"AgentStatusCode\":\"1\",\"IsLogin\":\"1\"}\n  Result: 0","params":{"AgentCode":"9999","AgentName":"Tee","AgentStatus":"1","AgentStatusCode":"1","IsLogin":"1","Team":"6"},"timestamp":"2025-03-19T14:15:26.814Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2025-03-19T14:54:10.829Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowExpiredAuthDataToken' default will change to 'false' in a future version.","timestamp":"2025-03-19T14:54:10.830Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-19T14:54:10.830Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-19T14:54:10.867Z"}
