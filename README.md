@@ -9,18 +9,18 @@
 ## 📝 Overview
 ### **Wallboard / Agent Notification**
  
-<img src="Image/Overview.gif" width="400">
+<img src="Image/Overview.gif" width="800">
 
 ---
 
 ### **📌 Data Flow Diagram (DFD)**
-<img src="Image/Data%20Flow%20Diagram.jpg" width="400">
+<img src="Image/Data%20Flow%20Diagram.JPG" width="800">
 
 ### **📌 ER Diagram**
-<img src="Image/ER%20Diagram.jpg" width="400">
+<img src="Image/ER%20Diagram.JPG" width="800">
 
 ### **📌 Activity Flow Diagram**
-<img src="Image/Activity%20Flow.jpg" width="400">
+<img src="Image/Activity%20Flow.jpg" width="800">
 
 ---
 
